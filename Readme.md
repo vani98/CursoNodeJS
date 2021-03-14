@@ -3,3 +3,9 @@
 * Hola mundo
 * Saludo
 * SetTimeout
+* Diferencias entre const - let - var
+* Template string
+* Funcion flecha
+* Destructuración
+* Callback básico
+* Call back hell
